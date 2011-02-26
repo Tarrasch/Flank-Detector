@@ -10,7 +10,7 @@ Entity flank is
 End entity;
 
 Architecture flank_bhv of flank is
-signal q1, q2 : std_logic;
+signal q1, q2 : std_logic; 
 begin
 
     u <= ((not q1) and (q2 xor y)) or (q1 and (q2 xor x)) or ((not x) and (not y) and q2);
