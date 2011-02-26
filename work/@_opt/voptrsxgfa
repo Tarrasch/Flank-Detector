@@ -1,0 +1,38 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/chalmers/users/rarash/VHDL/Lab4/Hazards
+T_opt
+Z1 Vde=[z;`UJ=eC@@6[ECf7S1
+Z2 04 5 9 work flank flank_bhv 1
+Z3 =1-001676c82c9d-4d69215e-37a70-6a45
+Z4 o-quiet -auto_acc_if_foreign -work work
+Z5 n@_opt
+Z6 OL;O;6.5b;42
+Eflank
+Z7 w1298734705
+Z8 DPx17 __model_tech/ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+32
+Z9 d/chalmers/users/rarash/VHDL/Lab4/Flank-Detector
+Z10 8/chalmers/users/rarash/VHDL/Lab4/Flank-Detector/flank.vhd
+Z11 F/chalmers/users/rarash/VHDL/Lab4/Flank-Detector/flank.vhd
+l0
+L5
+Z12 Vggh]95OWJTOX8FT6NHcKD1
+Z13 OL;C;6.5b;42
+Z14 o-work work -2002 -explicit
+Z15 tExplicit 1
+Z16 !s100 ^bOeaQXj?ESd48=Z`]W842
+Aflank_bhv
+R8
+DEx52 /chalmers/users/rarash/VHDL/Lab4/Flank-Detector/work 5 flank 0 22 ggh]95OWJTOX8FT6NHcKD1
+32
+Mx1 17 __model_tech/ieee 14 std_logic_1164
+l14
+L12
+Z17 VV`0kjk`CWX@@YT88dfD7D1
+R13
+R14
+R15
+Z18 !s100 _=h9kE]Y1A>E_MF[BFR[53
